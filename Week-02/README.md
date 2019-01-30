@@ -1,6 +1,6 @@
 # Case Study Assignement
 ## Case 1: PlentyOfFish Architecture
-![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/images/badges.PNG "PlentyOfFish")
+![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/images/pof.png "PlentyOfFish")
 ### What market does that company serve? (What do they do?) And have they always served that market?
 PlentyOfFish is an online dating service where they match potentail people with others to have dates.
 ### What Operating System(s) are used?
@@ -21,7 +21,7 @@ The site is run by a small group and has had slow perfermance in terms of data s
 Some of the things that I learned from this reading is that you do not need a huge organization to run a well built application. RAM is a very important component in order to run a fast website. Ad revenue bottlenecks the growth of a company after a certain point. In order go make PoF larger chaning to a paid model will help the company earn more revenue.
 
 ## Case 2: Stack Overflow Architecture
-![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/images/badges.PNG "
+![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/images/stack.png "
 StackOverflow")
 ### What market does that company serve? (What do they do?) And have they always served that market?
 Stack Overflow is a question and answer site for technology. It has always served this purpose because it was designed by two developers who wanted to solve problems
