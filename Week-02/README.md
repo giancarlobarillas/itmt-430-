@@ -19,13 +19,22 @@ The site is run by a small group and has had slow perfermance in terms of data s
 ### What can you learn from this article relating to technology architecture?
 Some of the things that I learned from this reading is that you do not need a huge organization to run a well built application. RAM is a very important component in order to run a fast website. Ad revenue bottlenecks the growth of a company after a certain point. In order go make PoF larger chaning to a paid model will help the company earn more revenue.
 
-## Case 2:
+## Case 2: Stack Overflow Architecture
 ### What market does that company serve? (What do they do?) And have they always served that market?
+Stack Overflow is a question and answer site for technology. It has always served this purpose because it was designed by two developers who wanted to solve problems
 ### What Operating System(s) are used?
+They use Windows to run their systems
 ### Why do you think those were used?
+It is probably easier for thie web and database tier to work together.
 ### What programming languages/frameworks are used?
+They are using JQuery, SQL, LINQ, and ASP.NET
 ### Why do you think they were used?
+These are all fast languages to build a platform such as this. The two developer took the avaiable languages and devloped an simple site that can handle millions of views and pages.
 ### What storage and what database technologies are used?
+On thier web tier they use 500 GB datacenters hard drives mirrored, 8 GB Ram and 500 GB RAID 1 mirror array. On thier database teir they use 48 GB of RAM. They use LINQ to SQL to access database information
 ### What is the current stock price and what was the IPO of the company? (if traded publicly.)
+Stack overflow is estimated to be worth around 3 Billion dollars today.
 ### What major obstacle (cost, system performance, QPS, etc, etc) was the company trying to overcome by implementing this technology stack?
+Like with most sites speed is the priority. Upgrading ram is essential to any webist trying to improve speeds. Another issue that stack overflow had was slow preformance that was due to poorly optimized equipment. They found out that by keeping thier drivers up to date they could also increase preformance.
 ### What can you learn from this article relating to technology architecture?
+RAM is so important to websited especially on the database side. Another important equipment to consider is CPU speeds. This can cause a linear improvement in terms of query time.
