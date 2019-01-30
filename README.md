@@ -11,4 +11,4 @@ I like developing application that fit a need.
 ## Something Interesting About You?
 I love playing tennis and bike riding. I used to play for the IIT Tennis time freshman and softmore year competativly. Love chess and playing statigic games.
 ## Git Tutorial
-(https://github.com/giancarlobarillas/itmt-430-/blob/master/images/badges.PNG)
+![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/images/badges.PNG "Badges")
