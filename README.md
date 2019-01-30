@@ -1,7 +1,7 @@
 # itmt-430-
 ## Giancarlo Barillas
-![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/images/me.PNG "Me")
-![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/images/loveFOOD.PNG "LOVE FOOOOOODDDD!!!!!")
+![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/images/me.jpg "Me")
+![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/images/loveFOOD.jpg "LOVE FOOOOOODDDD!!!!!")
 ### I love food and trying new food.
 ## Where are you from?
 I was born in Naperville Illinois but moved to Puerto Rico. I studied in Puerto Rico all my middleschool and highschool career.
