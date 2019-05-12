@@ -6,6 +6,9 @@
 
 In this sprint this is where we first began constructing the user interface with react. I was project manager of this sprint. My job at this sprint was to manage people. This sprint I made it important to all of us about our availability. I made everyone create a schedule of their availability using a site called when is good. The purpose of this was to show the team times where you could meet up with someone else. Some of the schedules created were like the figures below. These were made on march 29.
 
+![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/gbWhenisgood.PNG 'pmschedules')
+![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/theoWhenisgood.PNG 'pmschedules2')
+
 As project manager I was in constant communication with the team. I made sure that people were on time with their task. This was also the first sprint where we all joined together on Thursday and made substantial commit. Unfortunate this was the only time where we were all able to meetup for extended periods of time.
 
 At the start of this sprint we did not have an organized folder structure for the development of react components. I made the hierarchy for the folder structure so that we would be able to store our new react components in folder that made sense for easier access. I also broke down the index.js page so that it can call react component by importing them. This can be shown in the commits: **f6cfcb3** and **f9166dd**. These commits are shown below.
