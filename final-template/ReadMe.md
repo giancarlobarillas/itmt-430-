@@ -21,7 +21,7 @@ I also created the initial react components for the sign up and log in page so t
 While other teammates were building the CSS of those pages I dealt with the logic behind those pages. At the time we initial thought that we would use states to control the way that buttons connected to each other. This initial logic can be seen the commit: **1a58173**. This logic was tedious, we later changed this in the following sprint by using react router and Navlinks. This logic was not scalable since it would require us to make new states for every page. I created the initial aboutme page for sign up so that we could build that page while I continued to work with button functionality in commit: **49ed4b7**. I dealt with some of the CSS on the initial pages in commit: **7947b2c**. I also created the first logic to pass properties throughout pages. These properties were used to capture inputs throughout multiple react components. This was used to later create the user via the API calls. This was further developed in the following sprint. These commits are shown below
 ![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/sprint4%20commits.PNG 'sprint4Commits')
 
-#### Here is a view of the that reflect my contributions to the sprint:
+#### Here is a view of the tasks that reflect my contributions to the sprint:
 
 ![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/trelloSprint4.PNG 'Trello1')
 
@@ -41,7 +41,7 @@ This was also the first sprint that we started to us the API calls. I designed t
 
 ![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/sprint5part2.PNG 'finshFunction')
 
-#### Here is a view of the that reflect my contributions to the sprint:
+#### Here is a view of the tasks that reflect my contributions to the sprint:
 
 ![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/trelloSprint5.PNG 'trello3')
 
