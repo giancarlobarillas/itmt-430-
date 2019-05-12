@@ -37,8 +37,27 @@ This was also the first sprint that we started to us the API calls. I designed t
 
 ### Sprint 6
 
-1. Each team member should comment on their own accomplishments (Taken word for word from the sprint reports) and describe what they did and explain any decisions referencing any lectures or material from the text book or web.
-1. Correlate the personal sprint report with completed goals stated in the sprint report
-1. Trello Card(s) that shows the completed artifact (screen shot of card)
-1. Github code commits
-   1. Under the History tab in GitHub you will see the repo commit history and each commit has a SHA-1 hash, supply this URL
+In this sprint we rebuilt the react flow of the application while also switching to a different css framework. I dealt with the complete listing view and some of the functionality of the admin page. I also dealt with verifying merge request.
+
+The admin page already had the functionality to hide the admin button. I used the same logic to verify if a user was logged in as a buyer or a seller. This was important since a buyer should not have the option to create a listing. I added the hiding logic to the listing button in the commit **ffdf872**.
+
+#### Buyer View
+
+![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/buyerview.PNG 'Buyer')
+
+#### Seller View
+
+![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/sellerView.PNG 'Seller')
+
+I had struggled earlier in my environment to dynamically display components from an array. I learned that react can call the same component multiple times in a parent component but cannot render the same component from a for loop. This was tested in the commit: **06967ba**. I learned that by using map to iterate an array would give me what I needed. I used that logic to display the components in a list view. I made this logic in commit: **b33700b**. I also designed the list view and started that in commit: **79ce3bf**. The initial component for the list view used hardcoded information so that I could understand how this would look. Once I had the logic to display a list of components from an array I used the API to call the listing information and then I passed that to the component. This allowed to populate the component with real information from the database. This logic is shown in commit: **a16b87f**. I also then created the logic to call the images from our database and display them in the list view. I used map again to go through the image object in each list and the display the image from the source. This is shown in the commit: **f7cc45b**. I then added css to the listview so that it would look like how the final presentation looked like. I also designed the logic behind the expaneded view of the list component. Each component has an expended view that looks like the following below. The expanded part has the ability to now contain much more information about each listing and can be styled in any way.
+
+#### Normal View
+
+![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/listviewshort.PNG 'normal')
+
+#### Expaneded View
+
+![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/listviewexpand.PNG 'expanded')
+
+These commits the spring 6 are shown below
+![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/Sprint6Commits.PNG 'Sprint6')
