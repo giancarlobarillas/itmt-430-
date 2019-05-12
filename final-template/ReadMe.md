@@ -21,6 +21,11 @@ I also created the initial react components for the sign up and log in page so t
 While other teammates were building the CSS of those pages I dealt with the logic behind those pages. At the time we initial thought that we would use states to control the way that buttons connected to each other. This initial logic can be seen the commit: **1a58173**. This logic was tedious, we later changed this in the following sprint by using react router and Navlinks. This logic was not scalable since it would require us to make new states for every page. I created the initial aboutme page for sign up so that we could build that page while I continued to work with button functionality in commit: **49ed4b7**. I dealt with some of the CSS on the initial pages in commit: **7947b2c**. I also created the first logic to pass properties throughout pages. These properties were used to capture inputs throughout multiple react components. This was used to later create the user via the API calls. This was further developed in the following sprint. These commits are shown below
 ![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/sprint4%20commits.PNG 'sprint4Commits')
 
+####Here is a view of the that reflect my contributions to the sprint:
+![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/trelloSprint4.PNG 'Trello1')
+
+![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/trelloSprint4part2.PNG 'Trello2')
+
 ### Sprint 5
 
 In this sprint we continued with the same development methodology of the prior sprint. I oversaw building out the react logic. I also dealt with some merge request throughout the sprint in commits: **226f98c** and **0ab83da**. In this sprint I also started the development of the listing forms but did not push my code since it was not in a functional state. We redesigned the listing form between sprint 5 and 6.
@@ -34,6 +39,9 @@ I also dealt with more merge request and checking of merges to ensure that we di
 This was also the first sprint that we started to us the API calls. I designed the way to save values across react components. I did this by created a central state in the same format of the API so that once all the data was collected we would then be able to call the API and populate the database with a new user. Then in each component, I would store the data of that component in a state and pass that state to the parent. The final page of the sign-up form is where I would call the parent component’s state and call the API. The first version of this is in the commit **6f884cd**. In the commit **88711b3** is where I stored all the information about a new user so that it could be called by the API. I completed the functionality of creating a new user in the with the API call in **0821a7f** and **aeac2e1**. This is shown below throughout the commits
 
 ![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/sprint5part2.PNG 'finshFunction')
+
+####Here is a view of the that reflect my contributions to the sprint:
+![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/trelloSprint5.PNG 'trello3')
 
 ### Sprint 6
 
@@ -61,3 +69,8 @@ I had struggled earlier in my environment to dynamically display components from
 
 These commits the spring 6 are shown below
 ![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/Sprint6Commits.PNG 'Sprint6')
+
+#### Trello view of Sprint 6
+
+I completed what i was supposed to complete for that sprint and also completed the list view for the main page during this sprint.
+![alt text](https://github.com/giancarlobarillas/itmt-430-/blob/master/finalImages/trelloSprint6.PNG 'trello4')
